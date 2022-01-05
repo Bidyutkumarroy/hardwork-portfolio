@@ -46,13 +46,60 @@ section{
     background-color: turquoise;
     border-radius: 6px;
     margin-left:60px;
-    margin-right:400px;
+    margin-right:200px;
     margin-bottom: 60px;
 
 }
 .nd-divi img{
-    width:30%;
+    width:40%;
 }
 .container{
     margin-top: 100px;
+}
+.rd-divi{
+    text-align: center;
+    text-decoration: none;
+    border:none ;
+    padding:10px;
+    background-color: rgb(245, 253, 174);
+    border-radius: 6px;
+    margin-left:10px;
+    margin-right:70px;
+    margin-bottom: 60px;
+
+}
+.rd-divi img{
+    width:50%;
+}
+.th-divi{
+    text-align: center;
+    text-decoration: none;
+    border:none ;
+    padding:80px;
+    background-color: rgb(245, 253, 174);
+    border-radius: 6px;
+    margin-left:80px;
+    margin-right:100px;
+    margin-bottom: 60px;
+
+}
+.th-divi img{
+    width:80%;
+}
+.thard-divi{
+    
+}
+.thard-divi img{
+    width:400px;
+    margin-left:70px;
+    margin-bottom: 150px;
+}
+.jack{
+    margin-top: 100px;
+}
+.rost{
+    margin-left:30px;
+    margin-bottom:130px;
+    text-decoration: none;
+    padding:100px 70px 50px;
 }
