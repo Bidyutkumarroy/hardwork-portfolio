@@ -22,10 +22,10 @@ section{
     border-color:orangered;
     padding-left: 8px;
 
-
 }
 .btn{
     background-color: orangered;
+    margin-top:40px
     text-align: center;
     padding:10px 15px;
     border:none;
@@ -93,6 +93,7 @@ section{
     width:400px;
     margin-left:70px;
     margin-bottom: 150px;
+    border-radius:10px;
 }
 .jack{
     margin-top: 100px;
@@ -102,4 +103,38 @@ section{
     margin-bottom:130px;
     text-decoration: none;
     padding:100px 70px 50px;
+}
+.rtn{
+    width:100px;
+    height:30px;
+}
+.rtn img{
+    width:200px;
+    margin-top:80px;
+    margin-left:80px;
+}
+.web-divi{
+    display: flex;
+    margin-top: 100px;
+
+}
+.rud{
+    width:50%;
+    padding:20px;
+    margin-left:50px;
+}
+.rutted img{
+    margin-left:30px;
+    border-radius:10px;
+    margin-right:150px;
+}
+.rute{
+    width:100px;
+    height:30px
+}
+.rute img{
+    width:200px;
+    margin-top:150px;
+    margin-left:530px;
+    margin-right:100px;
 }
