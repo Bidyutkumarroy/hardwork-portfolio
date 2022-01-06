@@ -138,3 +138,40 @@ section{
     margin-left:530px;
     margin-right:100px;
 }
+.rhman{
+    color:Red;
+}
+.rubl{
+    margin-top:150px;
+    text-align:center;
+}
+.love img{
+    width:250px;
+    margin-left:70px;
+}
+.new-pc{
+    width:50%;
+}
+.new-pc img{
+    width:200px;
+    margin-right:200px;
+}
+.raihan{
+    margin-top:50px;
+}
+.bhost{
+    margin-left:80px;
+    margin-top:100px;
+    margin-right:400px;
+}
+.footer{
+    position: fiexd;
+    left:0;
+    bottom:0;
+    padding:20px;
+    width:100%;
+    text-align: center;
+    color:white;
+    background-color:black;
+
+}
